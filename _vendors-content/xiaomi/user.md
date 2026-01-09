@@ -1,4 +1,4 @@
----
+https://dontkillmyapp.com/xiaomi?3---
 manufacturer: 
     - xiaomi
 
